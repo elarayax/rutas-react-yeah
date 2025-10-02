@@ -1,3 +1,4 @@
+import React from 'react';
 import { Container, Card } from 'react-bootstrap';
 import { useParams } from 'react-router-dom';
 import products from '../data/Products.js';

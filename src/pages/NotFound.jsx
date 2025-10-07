@@ -7,7 +7,7 @@ const image = {
     alt: 'Not Found Image',
 }
 
-function Home() {
+function NotFound() {
   return (
     <Container className="my-5">
       <h1>Página no encontrada</h1>
@@ -18,4 +18,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default NotFound;
